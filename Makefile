@@ -11,10 +11,11 @@
 simcdir = .
 #Csoft = /group/hallc/Csoft/Analyzer
 #Csoft = /group/c-gep/jones/Linux_fc8/
+Csoft = /u/home/bduran/simc_gfortran
 
 ## U Regina SETUP FLAGS 
-simcdir = .
-Csoft = /home/huberg/r2d2/simc/
+#simcdir = .
+#Csoft = /u/home/bduran/simc_gfortran
 
 ## THE REST SHOULD BE OK WITHOUT MODIFICATION.
 
